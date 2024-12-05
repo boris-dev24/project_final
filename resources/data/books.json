@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "titre": "La Ricaneuse",
+        "auteure": "Eric Dupont",
+        "description": "Saga familiale montr\u00e9alaise qui prend racine dans les fermes au pied du mont Royal o\u00f9 se cultive le melon brod\u00e9 \u00e0 la fin du 19e si\u00e8cle, La Ricaneuse navigue entre Mary Gallagher, c\u00e9l\u00e8bre fant\u00f4me de Griffintown, le tavernier Charles McKiernan, ami des d\u00e9munis et montreur d\u2019ours, et un myst\u00e9rieux enfant proph\u00e8te qui produit des dessins futuristes. ",
+        "sujet": "Litt\u00e9rature Qu\u00e9b\u00e9coise",
+        "prix": 35.95,
+        "image": "laricaneuse.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 2,
+        "titre": "Cent ans d\u2019amour",
+        "auteure": "Janette Bertrand",
+        "description": "Janette Bertrand, notre Janette, aura tr\u00e8s bient\u00f4t 100 ans. Pour souligner un si\u00e8cle d'amour, elle nous offre sa vision de la vieillesse ainsi que ses r\u00e9flexions sur l'\u00e2gisme et sur les difficult\u00e9s de vieillir, mais aussi, et surtout, sur les petits plaisirs du grand \u00e2ge.",
+        "sujet": "Quebecois Divers",
+        "prix": 24.95,
+        "image": "centansdamour.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 3,
+        "titre": "La Nuit de ta disparition",
+        "auteure": "Victoria Charlton, Alexandre Soubliere",
+        "description": "Apr\u00e8s avoir retrouv\u00e9 les t\u00eates des victimes du tueur Robert Peters, Mackenzie s'envole pour Paris. Mais son voyage est \u00e9court\u00e9 par des r\u00e9v\u00e9lations troublantes entourant le suicide de sa m\u00e8re. Celle-ci a-t-elle vraiment mis fin \u00e0 ses jours ? Pour faire toute la lumi\u00e8re sur cette affaire, Mackenzie se rend chez sa tante \u00e0 Sainte-Marie-de-Beauce, o\u00f9 les effets personnels de sa m\u00e8re sont entrepos\u00e9s.",
+        "sujet": "Roman Policier",
+        "prix": 27.95,
+        "image": "lanuitdetadisparition.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 4,
+        "titre": "Entre nous : mieux se conna\u00eetre, mieux s'aimer",
+        "auteure": "Sophie Gregoire Trudeau",
+        "description": "ENTRE NOUS est un livre ax\u00e9 sur la connaissance de soi. Il explore l\u2019importance de mieux comprendre nos \u00e9motions et les m\u00e9canismes de notre personnalit\u00e9 afin de maintenir une bonne sant\u00e9 mentale tant sur le plan individuel que collectif. ENTRE NOUS nous donne acc\u00e8s \u00e0 la science derri\u00e8re la sant\u00e9 du cerveau, met en lumi\u00e8re nos signatures \u00e9motionnelles uniques et puise \u00e0 m\u00eame les histoires personnelles de l\u2019autrice, qui partage avec les lecteurs diff\u00e9rents aspects de son propre cheminement.",
+        "sujet": "Psychologie Populaire",
+        "prix": 39.95,
+        "image": "entrenous.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 5,
+        "titre": "Jamais plus",
+        "auteure": "Collen Hoover",
+        "description": "Entre un p\u00e8re violent et une m\u00e8re soumise, Lily Blossom Bloom n'a pas eu une enfance tr\u00e8s facile, mais elle a su s'en sortir, et est \u00e0 l'aube de r\u00e9aliser le r\u00eave de sa vie, ouvrir une boutique de fleurs \u00e0 Boston. Elle rencontre un neurochirurgien, Ryle, visiblement aussi attir\u00e9 par elle qu'elle l'est par lui. Le chemin de Lily semble trac\u00e9.",
+        "sujet": "Litt\u00e9rature Sentimentale",
+        "prix": 12.95,
+        "image": "jamaisplus.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 6,
+        "titre": "Tenir Debout",
+        "auteure": "Melissa Da Costa",
+        "description": " Le nouveau roman de M\u00e9lissa Da Costa nous plonge au c\u0153ur de l'intimit\u00e9 d'un couple en miettes et affronte, avec une force inou\u00efe, la r\u00e9alit\u00e9 de l'amour, du d\u00e9sespoir, et la soif de vivre, malgr\u00e9 les \u00e9preuves.",
+        "sujet": "Litt\u00e9rature Francaise",
+        "prix": 36.95,
+        "image": "tenirdebout.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "id": 7,
+        "titre": "Les Yeux de Mona",
+        "auteure": "Thomas Schlesser",
+        "description": "Cinquante-deux semaines : c'est le temps qu'il reste \u00e0 Mona pour d\u00e9couvrir toute la beaut\u00e9 du monde. . C'est le temps que s'est donn\u00e9 son grand-p\u00e8re, un homme \u00e9rudit et fantasque, pour l'initier, chaque mercredi apr\u00e8s l'\u00e9cole, \u00e0 une \u0153uvre d'art, avant qu'elle ne perde, peut-\u00eatre pour toujours, l'usage de ses yeux.",
+        "sujet": "Litt\u00e9rature Francaise",
+        "prix": 36.95,
+        "image": "lesyeuxdemona.jpg",
+        "date_creation": null,
+        "date_modification": null
+    },
+    {
+        "titre": "Loup gris",
+        "auteure": "Louise Penny",
+        "description": "Des appels t\u00e9l\u00e9phoniques incessants perturbent la tranquillit\u00e9 d\u2019une chaude matin\u00e9e d\u2019ao\u00fbt \u00e0 Three Pines. Armand Gamache s\u2019obstine \u00e0 ne pas r\u00e9pondre, bien qu\u2019il sache qui est \u00e0 l\u2019autre bout du fil.",
+        "sujet": "Sujet par d\u00e9faut ou champ suppl\u00e9mentaire",
+        "prix": "39.95",
+        "image": "default.jpg",
+        "date_creation": "2024-11-07T06:33:12.281438Z",
+        "date_modification": "2024-11-07T06:33:12.281452Z"
+    }
+   
+]

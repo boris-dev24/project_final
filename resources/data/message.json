@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Bob",
+        "email": "bob@gmail.com",
+        "subject": "Frais de retard",
+        "message": "Bonjour, je vous \u00e9crit car il semblerait avoir une erreur sur mes frais de retard. J'ai \u00e9t\u00e9 charg\u00e9 2$ de plus."
+    },
+    {
+        "name": "Michelle",
+        "email": "michelle.g@gmail.com",
+        "subject": "Plainte",
+        "message": "Bonjour, je remarque que souvent au 3eme etage, les jeunes font enormement de bruit vers 16h30."
+    },
+    {
+        "name": "Amalia Kamba Mudiay",
+        "email": "201495487@collegeahuntsic.qc.ca",
+        "subject": "Ouverture de dossier",
+        "message": "J'aimerai ouvrir un dossier avec vous..."
+    }
+]
